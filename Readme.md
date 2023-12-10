@@ -62,4 +62,7 @@ https://github.com/Pankil-Patel/Capstone/blob/main/capstone.ipynb
 </table>
 </li>
 <li>Based on the above results, we can predict that by using one of Stochastic Gradient Descent model or Ridge Regression, we can predict the price of the car more accurately. 
+<br/>
+<br/>
+<font color='green'><b>Recommendation</b></font>: <br/>Based on the model findings, the recommendation would be to price the car based on engine size, horse power, curb weight of the car and car length and car width.
 </li>
